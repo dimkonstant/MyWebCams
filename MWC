@@ -50,7 +50,7 @@ https://camera.cretaweather.gr/agiagalini/camera3.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΝΩΓΕΙΑ ΡΕΘΥΜΝΟΥ (Pic)
 https://camera.cretaweather.gr/anogeia/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΤΡΙΟΠΕΤΡΑ ΡΕΘΥΜΝΟΥ (Pic)
-https://www.triopetra.de/images/webcam/snap.jpg
+#https://www.triopetra.de/images/webcam/snap.jpg
 # Ηράκλειο _____________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",ΗΡΑΚΛΕΙΟ ΚΟΥΛΕΣ (Live)
 https://hddn00.skylinewebcams.com/live.m3u8?a=sm2em69e7lflhl0jiqs1d0blf1
@@ -112,9 +112,9 @@ https://camsecure.co/HLS/creta5.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΖΑΚΡΟΣ ΛΑΣΙΘΙΟΥ (Pic)
 https://camera.cretaweather.gr/zakros/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Lasithi Tzermiado (Live)
-https://camsecure.co/HLS/creta.m3u8
+#https://camsecure.co/HLS/creta.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΤΖΕΡΜΙΑΔΩΝ ΛΑΣΙΘΙΟΥ (Pic)
-https://camera.cretaweather.gr/tzermiado/camera1.jpg
+#https://camera.cretaweather.gr/tzermiado/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΣΕΛΕΚΑΝΟ ΛΑΣΙΘΙΟΥ (Pic)
 https://camera.cretaweather.gr/selakano/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΝΕΑΠΟΛΗ ΛΑΣΙΘΙΟΥ 1 (Pic)
