@@ -55,15 +55,15 @@ https://camera.cretaweather.gr/anogeia/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΗΡΑΚΛΕΙΟ ΚΟΥΛΕΣ (Live)
 #https://hddn00.skylinewebcams.com/live.m3u8?a=sm2em69e7lflhl0jiqs1d0blf1
 #EXTINF:-1 group-title="Greece WebCams",ΗΡΑΚΛΕΙΟ ΛΙΜΑΝΙ (Pic)
-https://camera.cretaweather.gr/iraklio/camera1.jpg
+#https://camera.cretaweather.gr/iraklio/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πλατεία Ελ.Βενιζέλου Λιονταράκια Ηράκλειο (Youtube)
 https://www.youtube.com/watch?v=L2MYCLb86ao
 #EXTINF:-1 group-title="Greece WebCams",Heraklion Tympaki (Live)
 https://camsecure.co/HLS/creta6.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Heraklion Agia Varvara (Live)
-https://camsecure.co/HLS/creta2.m3u8
+#https://camsecure.co/HLS/creta2.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΑΓΙΑ ΒΑΡΒΑΡΑ (ΝΑ) ΗΡΑΚΛΕΙΟΥ (Pic)
-https://camera.cretaweather.gr/agiavarvara/camera1.jpg
+#https://camera.cretaweather.gr/agiavarvara/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΓΙΑ ΒΑΡΒΑΡΑ (ΒΟΡ) ΗΡΑΚΛΕΙΟΥ (Pic)
 #https://cretaweather.gr/camera/agiavarvara/camera2.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΓΡΙΑΝΑ ΗΡΑΚΛΕΙΟΥ (Pic)
@@ -75,7 +75,7 @@ https://camera.cretaweather.gr/anoviannos/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΒΕΝΕΡΑΤΟ (ΑΝ) ΗΡΑΚΛΕΙΟΥ (Pic)
 https://camera.cretaweather.gr/venerato/camera2.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΒΕΝΕΡΑΤΟ (ΔΥΤ) ΗΡΑΚΛΕΙΟΥ (Pic)
-https://camera.cretaweather.gr/venerato/camera3.jpg
+#https://camera.cretaweather.gr/venerato/camera3.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΓΕΡΓΕΡΗ ΗΡΑΚΛΕΙΟΥ (Pic)
 https://camera.cretaweather.gr/gergeri/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΚΟΥΤΟΥΛΟΥΦΑΡΙ ΗΡΑΚΛΕΙΟΥ (Pic)
@@ -85,7 +85,7 @@ https://camera.cretaweather.gr/lentas/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΜΕΣΟΧΩΡΙ ΗΡΑΚΛΕΙΟΥ (Pic)
 https://camera.cretaweather.gr/mesoxorio/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΜΕΣΟΧΩΡΙ (ΔΥΤ) ΗΡΑΚΛΕΙΟΥ (Pic)
-https://camera.cretaweather.gr/mesoxorio/camera2.jpg
+#https://camera.cretaweather.gr/mesoxorio/camera2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Heraklion Μοχός (Live)
 #https://camsecure.co/HLS/creta4.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΜΟΧΟΣ ΗΡΑΚΛΕΙΟΥ (Pic)
@@ -120,7 +120,7 @@ https://camera.cretaweather.gr/selakano/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΝΕΑΠΟΛΗ ΛΑΣΙΘΙΟΥ 1 (Pic)
 https://camera.cretaweather.gr/neapoli/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΝΕΑΠΟΛΗ ΛΑΣΙΘΙΟΥ 2 (Pic)
-https://camera.cretaweather.gr/neapoli/camera2.jpg
+#https://camera.cretaweather.gr/neapoli/camera2.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΜΑΚΡΥΣ ΓΙΑΛΟΣ ΛΑΣΙΘΙΟΥ (Pic)
 https://camera.cretaweather.gr/makrygialos/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΙΕΡΑΠΕΤΡΑ ΛΑΣΙΘΙΟΥ (Pic)
