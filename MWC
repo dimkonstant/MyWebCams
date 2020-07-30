@@ -14,12 +14,20 @@ http://penteli.meteo.gr/stations/chania/WEBCAM/port.jpg
 http://84.205.229.51:443/axis-cgi/mjpg/video.cgi
 #EXTINF:-1 group-title="Greece WebCams",Χανιά Λιμάνι
 http://147.27.69.5/axis-cgi/mjpg/video.cgi
-#EXTINF:-1 group-title="Greece WebCams",ΠΑΛΑΙΟΧΩΡΑ ΧΑΝΙΩΝ (Pic)
-http://www.palaiochora.com/site/image.jpg
-#EXTINF:-1 group-title="Greece WebCams",ΦΑΛΑΣΑΡΝΑ ΧΑΝΙΩΝ (Pic)
-http://penteli.meteo.gr/stations/falasarna/camera/falasarna.jpg
 #EXTINF:-1 group-title="Greece WebCams",Χανιά Aptera (Pic)
 http://www.villa-amalia.gr/webcam.ashx
+#EXTINF:-1 group-title="Greece WebCams",ΠΑΛΑΙΟΧΩΡΑ ΧΑΝΙΩΝ (Pic)
+http://www.palaiochora.com/site/image.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΠΑΛΑΙΟΧΩΡΑ ΧΑΝΙΩΝ
+https://s29.ipcamlive.com/streams/1d5f1cc0687bcac8e/stream.m3u8
+#EXTINF:-1 group-title="Greece WebCams",ΠΑΛΑΙΟΧΩΡΑ Ανατολική παραλία
+https://s44.ipcamlive.com/streams/2c5f1e2ada976c7d5/stream.m3u8
+#EXTINF:-1 group-title="Greece WebCams",ΠΑΛΑΙΟΧΩΡΑ Ζυγός καφέ κάμερα
+https://s29.ipcamlive.com/streams/1d5f1ee2e07ea875e/stream.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Σκάλα Παλαιοχωρας
+https://s29.ipcamlive.com/streams/1d5f11e2c3481ce41/stream.m3u8
+#EXTINF:-1 group-title="Greece WebCams",ΦΑΛΑΣΑΡΝΑ ΧΑΝΙΩΝ (Pic)
+http://penteli.meteo.gr/stations/falasarna/camera/falasarna.jpg
 #EXTINF:-1 group-title="Greece WebCams",Maleme Chania Mike Hotel Apartments (Pic)
 http://9002a93e50a3.dahuaddns.com:9989/onvif/media_service/snapshot
 #EXTINF:-1 group-title="Greece WebCams",Sfakia Crete (Pic)
