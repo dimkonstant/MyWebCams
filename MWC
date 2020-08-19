@@ -299,6 +299,37 @@ http://livecameras.gr:81/live/pylos1/chunks.m3u8
 http://livecameras.gr:81/live/trip1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΤΡΙΠΟΛΗ ΑΡΚΑΔΙΑΣ (Pic)
 #http://www.livecameras.gr/thumbs/temp/trip1.jpg
+# Μαγνησία ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Volos East Pelion Thessalia
+https://images-webcams.windy.com/57/1452342957/current/full/1452342957.jpg
+#EXTINF:-1 group-title="Greece WebCams",Agios Ioannis East magnhsia phlion
+https://images-webcams.windy.com/53/1481832553/current/full/1481832553.jpg
+#EXTINF:-1 group-title="Greece WebCams",Zagora Hotel Haravgi
+https://images-webcams.windy.com/05/1596439105/current/full/1596439105.jpg
+#EXTINF:-1 group-title="Greece WebCams",Zagora
+https://images-webcams.windy.com/14/1587509914/current/full/1587509914.jpg
+#EXTINF:-1 group-title="Greece WebCams",Χάνια Πηλίου Μαγνησίας (Live)
+http://livecameras.gr:81/live/chan1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Σκόπελος Μαγνησίας (Live)
+#http://livecameras.gr:81/live/skop1/chunks.m3u8
+# Τρίκαλα ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Τρίκαλα
+#https://mediacp.alphastream.eu/trikalacam2/trikalacam2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Τρίκαλα 2
+https://mediacp.alphastream.eu/trikalacam/trikalacam.stream/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Ελάτη Τρικάλων (Live)
+https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunks.m3u8
+# Καρδίτσα ________________________________________________________________________________________________________
+# Καρπενήσι ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Καρπενήσι Ασπρόπυργος (Αντράνοβα)
+https://www.evangelou.gr/filipos/NewCamera/HOME_1.jpg
+# Λαμία ___________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Ράχες Φθιώτιδας (Live)
+http://livecameras.gr:81/live/rahes1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Raches South-East Central
+https://images-webcams.windy.com/00/1520937000/current/full/1520937000.jpg
+#EXTINF:-1 group-title="Greece WebCams",Agios Georgios West Istiaia
+https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
 # Θεσ/νικη ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσ/νικης 1 (Live)
 http://livecameras.gr:81/live/aspro1/chunks.m3u8
@@ -414,37 +445,6 @@ http://livecameras.gr:81/live/lefk1/chunks.m3u8
 # Κεφαλονιά  _________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Κεφαλονιά Λιμάνι
 #http://s15.ipcamlive.com/streams/0f5e27a7b52e0eb40/stream.m3u8
-# Μαγνησία ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Volos East Pelion Thessalia
-https://images-webcams.windy.com/57/1452342957/current/full/1452342957.jpg
-#EXTINF:-1 group-title="Greece WebCams",Agios Ioannis East magnhsia phlion
-https://images-webcams.windy.com/53/1481832553/current/full/1481832553.jpg
-#EXTINF:-1 group-title="Greece WebCams",Zagora Hotel Haravgi
-https://images-webcams.windy.com/05/1596439105/current/full/1596439105.jpg
-#EXTINF:-1 group-title="Greece WebCams",Zagora
-https://images-webcams.windy.com/14/1587509914/current/full/1587509914.jpg
-#EXTINF:-1 group-title="Greece WebCams",Χάνια Πηλίου Μαγνησίας (Live)
-http://livecameras.gr:81/live/chan1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Σκόπελος Μαγνησίας (Live)
-#http://livecameras.gr:81/live/skop1/chunks.m3u8
-# Τρίκαλα ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Τρίκαλα
-#https://mediacp.alphastream.eu/trikalacam2/trikalacam2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Τρίκαλα 2
-https://mediacp.alphastream.eu/trikalacam/trikalacam.stream/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Ελάτη Τρικάλων (Live)
-https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunks.m3u8
-# Καρδίτσα ________________________________________________________________________________________________________
-# Καρπενήσι ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Καρπενήσι Ασπρόπυργος (Αντράνοβα)
-https://www.evangelou.gr/filipos/NewCamera/HOME_1.jpg
-# Λαμία ___________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ράχες Φθιώτιδας (Live)
-http://livecameras.gr:81/live/rahes1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Raches South-East Central
-https://images-webcams.windy.com/00/1520937000/current/full/1520937000.jpg
-#EXTINF:-1 group-title="Greece WebCams",Agios Georgios West Istiaia
-https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
 # Κυκλάδες __________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Mykonos Blu Blu Lounge Cafe Cavo Paradiso (Live)
 #http://176.9.123.140:1935/blublu2/blublu2.stream/playlist.m3u8
