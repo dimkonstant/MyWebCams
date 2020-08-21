@@ -308,7 +308,7 @@ http://livecameras.gr:81/live/trip1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΤΡΙΠΟΛΗ ΑΡΚΑΔΙΑΣ (Pic)
 #http://www.livecameras.gr/thumbs/temp/trip1.jpg
 # Μαγνησία ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Volos East Pelion Thessalia
+#EXTINF:-1 group-title="Greece WebCams",Βόλος θέα απο Πύλιο
 https://images-webcams.windy.com/57/1452342957/current/full/1452342957.jpg
 #EXTINF:-1 group-title="Greece WebCams",Βόλος Λιμάνι
 https://www.mykosmos.gr/loc_mk/images/webcams/158.jpg
@@ -353,10 +353,6 @@ https://images-webcams.windy.com/00/1520937000/current/full/1520937000.jpg
 #EXTINF:-1 group-title="Greece WebCams",Agios Georgios West Istiaia
 https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
 # Θεσ/νικη ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσ/νικης 1 (Live)
-http://livecameras.gr:81/live/aspro1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσ/νικης 2 (Live)
-http://livecameras.gr:81/live/aspro2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη Κέντρο
 https://images-webcams.windy.com/45/1341763045/current/full/1341763045.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη Καμάρα1
@@ -394,6 +390,10 @@ http://155.207.18.200:9008/frame.msp&s=2&p=11&m=3
 http://155.207.18.200:9008/frame.msp&s=2&p=12&m=3
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη - Διαβατά 3
 https://www.mykosmos.gr/loc_mk/images/webcams/305.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσ/νικης 1 (Live)
+http://livecameras.gr:81/live/aspro1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσ/νικης 2 (Live)
+http://livecameras.gr:81/live/aspro2/chunks.m3u8
 # Χαλκιδική ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Αγ. Νικόλαος Σιθωνίας Χαλκιδική 1 (Live)
 http://livecameras.gr:81/live/agnik1/chunks.m3u8
