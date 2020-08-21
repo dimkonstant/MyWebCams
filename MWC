@@ -337,6 +337,10 @@ https://www.mykosmos.gr/loc_mk/images/webcams/333.jpg
 https://mediacp.alphastream.eu/trikalacam/trikalacam.stream/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ελάτη Τρικάλων (Live)
 https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Περτούλι
+https://www.mykosmos.gr/loc_mk/images/webcams/331.jpg
+#EXTINF:-1 group-title="Greece WebCams",Γαρδίκι Τρικάλων
+https://www.mykosmos.gr/loc_mk/images/webcams/329.jpg
 # Καρδίτσα ________________________________________________________________________________________________________
 # Καρπενήσι ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Καρπενήσι Ασπρόπυργος (Αντράνοβα)
@@ -443,11 +447,19 @@ http://livecameras.gr:81/live/mhlo1/chunks.m3u8
 http://livecameras.gr:81/live/pram1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Βελισσάριος Ιωαννίνων (Live)
 #http://livecameras.gr:81/live/velis1/chunks.m3u8
-# Ηγουμενίτσα ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Μέτσοβο
+https://www.mykosmos.gr/loc_mk/images/webcams/565.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πράμαντα Ιωαννίνων
+https://www.mykosmos.gr/loc_mk/images/webcams/321.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ηγουμενίτσα 2 (Live)
 http://livecameras.gr:81/live/igou2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Μαυρούδι Ηγουμενίτσας (Live)
 http://livecameras.gr:81/live/mavr1/chunks.m3u8
+# Άρτα   ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Θεοδώριανα Αρτας
+https://www.mykosmos.gr/loc_mk/images/webcams/327.jpg
+#EXTINF:-1 group-title="Greece WebCams",Βουλγαρέλι Αρτας
+https://www.mykosmos.gr/loc_mk/images/webcams/330.jpg
 # Ιθάκη ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Βαθύ Ιθάκη (Live)
 http://livecameras.gr:81/live/ithak2/chunks.m3u8
