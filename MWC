@@ -143,7 +143,7 @@ http://livecameras.gr:81/live/ymit1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ymittos
 http://ymittoscam.forecastweather.gr/ymittos.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΠΑΤΗΣΙΑ ΑΘΗΝΑ
-https://www.mykosmos.gr/loc_mk/images/webcams/400.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/400.jpg
 #EXTINF:-1 group-title="Greece WebCams",Aνω Λιόσια Αττικής (Live)
 http://livecameras.gr:81/live/alios1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Αχαρνές Αττικής (Live)
@@ -233,7 +233,7 @@ http://www.in-karystos.gr/camera/almyropotamos.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αλιβέρι
 http://www.in-aliveri.gr/camera/aliveri.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μαντούδι Κηρέως Ευβοίας
-http://livecameras.gr:81/live/mant1/chunks.m3u8
+#http://livecameras.gr:81/live/mant1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Μετόχι Κηρέως Ευβοίας
 http://livecameras.gr:81/live/meto1/chunks.m3u8
 # Αιτ/νία ________________________________________________________________________________________________________
@@ -242,7 +242,7 @@ http://livecameras.gr:81/live/meto1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Γαβαλού Αιτ/νίας 2 (Live)
 http://livecameras.gr:81/live/gaval2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Γουριά Μεσολογγίου
-https://www.mykosmos.gr/loc_mk/images/webcams/604.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/604.jpg
 # Κορινθία ________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Καίσαρι Κορινθίας (Live)
 #http://livecameras.gr:81/live/kesa1/chunks.m3u8
