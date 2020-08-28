@@ -24,6 +24,8 @@ https://camera.cretaweather.gr/vamos/camera1.jpg
 https://camera.cretaweather.gr/asigonia/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Χανιά ΚΑΝΔΑΝΟΣ (Pic)
 https://penteli.meteo.gr/stations/kandanos/Kandanos.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΑΓΙΟΙ ΠΑΝΤΕΣ ΧΑΝΙΩΝ (Pic)
+http://penteli.meteo.gr/stations/agpantes/Ag_Pantes_000M.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΓΑΥΔΟΣ ΧΑΝΙΩΝ (Pic)
 https://camera.cretaweather.gr/gavdos/camera1.jpg
 # Ρέθυμνο _____________________________________________________________________________________
@@ -36,6 +38,8 @@ https://camera.cretaweather.gr/anogeia/camera1.jpg
 # Ηράκλειο _____________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Πλατεία Ελ.Βενιζέλου Λιονταράκια Ηράκλειο (Youtube)
 https://www.youtube.com/watch?v=L2MYCLb86ao
+#EXTINF:-1 group-title="Greece WebCams",Heraklion Agia Varvara (Live)
+https://camsecure.co/HLS/creta2.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΑΓΡΙΑΝΑ ΗΡΑΚΛΕΙΟΥ (Pic)
 https://camera.cretaweather.gr/agriana/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΒΙΑΝΟΣ ΗΡΑΚΛΕΙΟΥ (Pic)
