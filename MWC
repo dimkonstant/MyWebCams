@@ -451,10 +451,21 @@ http://livecameras.gr:81/live/pram1/chunks.m3u8
 https://www.mykosmos.gr/loc_mk/images/webcams/565.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πράμαντα Ιωαννίνων
 https://www.mykosmos.gr/loc_mk/images/webcams/321.jpg
+# Θεσπρωτία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ηγουμενίτσα 2 (Live)
 http://livecameras.gr:81/live/igou2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Μαυρούδι Ηγουμενίτσας (Live)
 http://livecameras.gr:81/live/mavr1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Σύβοτα
+https://www.mykosmos.gr/loc_mk/images/webcams/312.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πάργα 2
+https://www.mykosmos.gr/loc_mk/images/webcams/598.jpg
+#EXTINF:-1 group-title="Greece WebCams",Μαυρούδι Ηγουμενίτσα
+https://www.mykosmos.gr/loc_mk/images/webcams/308.jpg
+#EXTINF:-1 group-title="Greece WebCams",Νέα Σελεύκεια Θεσπρωτίας
+https://www.mykosmos.gr/loc_mk/images/webcams/544.jpg
+#EXTINF:-1 group-title="Greece WebCams",Σαγιάδα Ηπείρου
+https://www.mykosmos.gr/loc_mk/images/webcams/311.jpg
 # Άρτα   ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Θεοδώριανα Αρτας
 https://www.mykosmos.gr/loc_mk/images/webcams/327.jpg
@@ -469,6 +480,14 @@ http://livecameras.gr:81/live/ithak3/chunks.m3u8
 http://livecameras.gr:81/live/ithak4/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Πλατρειθιάς Ιθάκη (Live)
 http://livecameras.gr:81/live/ithak5/chunks.m3u8
+# Κέρκυρα _________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Αυλιώτες
+https://www.mykosmos.gr/loc_mk/images/webcams/71.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/69.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αρίλλας Κέρκυρα
+https://www.mykosmos.gr/loc_mk/images/webcams/344.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αφίωνας Κέρκυρας 2
+https://www.mykosmos.gr/loc_mk/images/webcams/649.jpg
 # Λευκάδα _________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Βασιλική Λευκάδας (Live)
 http://livecameras.gr:81/live/lefk1/chunks.m3u8
