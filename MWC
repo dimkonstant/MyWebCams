@@ -371,23 +371,6 @@ https://www.mykosmos.gr/loc_mk/images/webcams/635.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/406.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη λιμάνι
 https://www.mykosmos.gr/loc_mk/images/webcams/153.jpg
-#EXTINF:-1 group-title="Greece WebCams",Εγνατία (ΔΕΘ) Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=18&m=1
-#EXTINF:-1 group-title="Greece WebCams",ΜΑΚΡΟ Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-#http://155.207.18.200:9008/frame.msp&s=2&p=1&m=2
-http://155.207.18.200:9008/frame.msp&s=2&p=1&m=2&d=1559164069500
-#EXTINF:-1 group-title="Greece WebCams",Πανόραμα Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=4&m=2
-#EXTINF:-1 group-title="Greece WebCams",Κωνσταντινοπολίτικα Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=5&m=2
-#EXTINF:-1 group-title="Greece WebCams",Τριανδρία Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=9&m=2
-#EXTINF:-1 group-title="Greece WebCams",Άγιος Παύλος 1 Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=10&m=2
-#EXTINF:-1 group-title="Greece WebCams",Άγιος Παύλος 2 Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=11&m=3
-#EXTINF:-1 group-title="Greece WebCams",Επταπύργιο Περιφερειακή Οδός Θεσσαλονίκης (Pic)
-http://155.207.18.200:9008/frame.msp&s=2&p=12&m=3
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη - Διαβατά 3
 https://www.mykosmos.gr/loc_mk/images/webcams/305.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσ/νικης 1 (Live)
