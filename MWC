@@ -435,12 +435,12 @@ https://www.mykosmos.gr/loc_mk/images/webcams/321.jpg
 http://livecameras.gr:81/live/igou2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Μαυρούδι Ηγουμενίτσας (Live)
 http://livecameras.gr:81/live/mavr1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Μαυρούδι Ηγουμενίτσα
+#https://www.mykosmos.gr/loc_mk/images/webcams/308.jpg
 #EXTINF:-1 group-title="Greece WebCams",Σύβοτα
 https://www.mykosmos.gr/loc_mk/images/webcams/312.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάργα 2
 https://www.mykosmos.gr/loc_mk/images/webcams/598.jpg
-#EXTINF:-1 group-title="Greece WebCams",Μαυρούδι Ηγουμενίτσα
-https://www.mykosmos.gr/loc_mk/images/webcams/308.jpg
 #EXTINF:-1 group-title="Greece WebCams",Νέα Σελεύκεια Θεσπρωτίας
 https://www.mykosmos.gr/loc_mk/images/webcams/544.jpg
 #EXTINF:-1 group-title="Greece WebCams",Σαγιάδα Ηπείρου
