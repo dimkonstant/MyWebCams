@@ -77,8 +77,6 @@ https://meteotimb.eu/ipc/image3.jpg
 # Λασίθι _____________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Zakros Λασίθι (Live)
 https://camsecure.co/HLS/creta5.m3u8
-#EXTINF:-1 group-title="Greece WebCams",ΖΑΚΡΟΣ ΛΑΣΙΘΙΟΥ (Pic)
-https://camera.cretaweather.gr/zakros/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΣΕΛΕΚΑΝΟ ΛΑΣΙΘΙΟΥ (Pic)
 https://camera.cretaweather.gr/selakano/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΝΕΑΠΟΛΗ ΛΑΣΙΘΙΟΥ 1 (Pic)
