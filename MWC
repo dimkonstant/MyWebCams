@@ -2,9 +2,9 @@
 # ΧΑΝΙΑ ___________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Χανιά Λιμάνι (Pic)
 http://penteli.meteo.gr/stations/chania/WEBCAM/port.jpg
-#EXTINF:-1 group-title="Greece WebCams",Χανιά Δικαστήρια
+#EXTINF:-1 group-title="Greece WebCams",Χανιά Δικαστήρια (Live)
 http://84.205.229.51:443/axis-cgi/mjpg/video.cgi
-#EXTINF:-1 group-title="Greece WebCams",Χανιά Λιμάνι
+#EXTINF:-1 group-title="Greece WebCams",Χανιά Λιμάνι (Live)
 http://147.27.69.5/axis-cgi/mjpg/video.cgi
 #EXTINF:-1 group-title="Greece WebCams",Χανιά Aptera (Pic)
 http://www.villa-amalia.gr/webcam.ashx
