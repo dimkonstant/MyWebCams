@@ -114,8 +114,6 @@ http://livecameras.gr:81/live/vyro3/chunks.m3u8
 http://livecameras.gr:81/live/ymit1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ymittos (Pic)
 http://ymittoscam.forecastweather.gr/ymittos.jpg
-#EXTINF:-1 group-title="Greece WebCams",Υμηττός
-https://www.mykosmos.gr/loc_mk/images/webcams/190.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πειραιάς
 https://www.mykosmos.gr/loc_mk/images/webcams/15.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πειραιάς 2
@@ -184,8 +182,6 @@ http://livecameras.gr:81/live/leva2/chunks.m3u8
 http://livecameras.gr:81/live/leva4/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Οινόφυτα Βοιωτίας (Live)
 http://livecameras.gr:81/live/oinof1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Οινόφυτα Βοιωτίας
-https://www.mykosmos.gr/loc_mk/images/webcams/471.jpg
 # Φωκίδα ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Γαλαξίδι (Pic)
 https://images-webcams.windy.com/02/1478011902/current/full/1478011902.jpg
