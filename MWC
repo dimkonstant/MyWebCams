@@ -94,6 +94,8 @@ https://penteli.meteo.gr/stations/penteli/webcam/meteocam1.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/180.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αθήνα Γκάζι
 https://www.mykosmos.gr/loc_mk/images/webcams/181.jpg
+#EXTINF:-1 group-title="Greece WebCams",Παναθηναϊκό Στάδιο
+http://view.dikemes.edu.gr/mjpg/video.mjpg
 #EXTINF:-1 group-title="Greece WebCams",Ζωγράφου
 https://www.mykosmos.gr/loc_mk/images/webcams/9.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κηφισιά Αττικής (Live)
@@ -260,6 +262,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/59.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/506.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πύλος Μεσσηνίας 1 (Live)
 http://livecameras.gr:81/live/pylos1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Φοινικούντα Μεσσηνίας
+http://thines.dyndns.info/video.mjpg
 # Αρκαδία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Τρίπολη Αρκαδίας (Live)
 http://livecameras.gr:81/live/trip1/chunks.m3u8
@@ -357,6 +361,9 @@ http://livecameras.gr:81/live/nera1/chunks.m3u8
 http://livecameras.gr:81/live/mhlo1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Καταφύγι Κοζάνης (Live)
 http://livecameras.gr:81/live/kataf1/chunks.m3u8
+# Καστοριά __________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Kastoria live
+http://62.103.214.128:10000/axis-cgi/mjpg/video.cgi
 # Φλώρινα ________________________________________________________________________________________________________
 # Κιλκίς ________________________________________________________________________________________________________
 # Ιωαννίνα ________________________________________________________________________________________________________
