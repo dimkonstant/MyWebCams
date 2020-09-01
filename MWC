@@ -74,6 +74,14 @@ https://camera.cretaweather.eu/timbaki/camera1.jpg
 https://meteotimb.eu/ipc/image.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τυμπάκι (ΑΝΑΤ) ΗΡΑΚΕΙΟΥ (Pic)
 https://meteotimb.eu/ipc/image3.jpg
+#EXTINF:-1 group-title="Greece WebCams",Προφήτης Ηλίας
+https://camera.cretaweather.gr/profitisilias/camera1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Χόνδρος
+https://camera.cretaweather.gr/hondros/camera1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αρκαλοχώρι
+https://camera.cretaweather.gr/arkalohori/camera1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πυθάρι Αστερούσια
+https://camera.cretaweather.gr/pyrathi/camera1.jpg
 # Λασίθι _____________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Zakros Λασίθι (Live)
 https://camsecure.co/HLS/creta5.m3u8
@@ -85,6 +93,12 @@ https://camera.cretaweather.gr/neapoli/camera1.jpg
 http://xerocamboscreta.dyndns.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=visitatore&pwd=kavalo1&cnt=1507627121661
 #EXTINF:-1 group-title="Greece WebCams",Πισκοκέφαλο ΛΑΣΙΘΙΟΥ (Pic)
 https://assets1.webcam.io/w/ZP6mv9/latest.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ποτάμοι
+https://camera.cretaweather.gr/potamoi/camera1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Μακρύ Γιαλός
+https://camera.cretaweather.gr/makrygialos/camera1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Σητεία
+https://sitia.gr/snapcam
 # ΑΤΤΙΚΗ _________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",ΠΕΝΤΕΛΗ ΠΡΟΣ ΝΑ ΑΘΗΝΑ (Pic)
 http://penteli.meteo.gr/stations/penteli/webcam/panorama.jpg
