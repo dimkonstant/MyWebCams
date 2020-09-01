@@ -164,6 +164,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/222.jpg
 http://parnithacam1.forecastweather.gr/parnithacam1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάρνηθα 2 Καταφύγιο Φλαμπούρι
 https://www.mykosmos.gr/loc_mk/images/webcams/638.jpg
+#EXTINF:-1 group-title="Greece WebCams",κίνηση εθνικής οδού 17ο χλμ (youtube)
+https://www.youtube.com/watch?v=pHcRtaSNWsQ
 # Αργοσαρωνικός  ____________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ύδρα (Live)
 http://livecameras.gr:81/live/hydr1/chunks.m3u8
@@ -361,9 +363,20 @@ http://livecameras.gr:81/live/nera1/chunks.m3u8
 http://livecameras.gr:81/live/mhlo1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Καταφύγι Κοζάνης (Live)
 http://livecameras.gr:81/live/kataf1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Πτολεμαΐδα (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/408.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πτολεμαΐδα Βαρικό (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/111.jpg
+#EXTINF:-1 group-title="Greece WebCams",Τσοτύλι Κοζάνης (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/597.jpg
 # Καστοριά __________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Kastoria live
+#EXTINF:-1 group-title="Greece WebCams",Καστοριά (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/66.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καστοριά (Live)
 http://62.103.214.128:10000/axis-cgi/mjpg/video.cgi
+# Γρεβενά ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Βασιλίτσα Χιονοδρομικό Κέντρο Ελιμεία Γρεβενά
+https://www.mykosmos.gr/loc_mk/images/webcams/517.jpg
 # Φλώρινα ________________________________________________________________________________________________________
 # Κιλκίς ________________________________________________________________________________________________________
 # Ιωαννίνα ________________________________________________________________________________________________________
@@ -371,6 +384,14 @@ http://62.103.214.128:10000/axis-cgi/mjpg/video.cgi
 http://livecameras.gr:81/live/pram1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Μέτσοβο (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/565.jpg
+#EXTINF:-1 group-title="Greece WebCams",Μέτσοβο 2 (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/514.jpg
+#EXTINF:-1 group-title="Greece WebCams",Βωβούσα Ζαγοροχώρια Ιωαννίων (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/535.jpg
+#EXTINF:-1 group-title="Greece WebCams",Κεράσοβο Ιωαννίων (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/521.jpg
+#EXTINF:-1 group-title="Greece WebCams",Βωβούσα Ζαγοροχώρια Ιωαννίων (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/535.jpg
 # Θεσπρωτία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ηγουμενίτσα 2 (Live)
 http://livecameras.gr:81/live/igou2/chunks.m3u8
