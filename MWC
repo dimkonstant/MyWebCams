@@ -240,6 +240,8 @@ http://www.in-karystos.gr/camera/almyropotamos.jpg
 http://www.in-aliveri.gr/camera/aliveri.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μετόχι Κηρέως Ευβοίας (Live)
 http://livecameras.gr:81/live/meto1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Ανδρονιάνοι Ευβοίας (Live)
+http://livecameras.gr:81/live/andr1/chunks.m3u8
 # Αιτ/νία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ορεινή Ναυπακτία Αμπελακιώτισσα
 https://www.mykosmos.gr/loc_mk/images/webcams/396.jpg
