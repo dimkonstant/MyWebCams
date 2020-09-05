@@ -493,7 +493,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/121.jpg
 #EXTINF:-1 group-title="Greece WebCams",Milos (Pic)
 http://milos-greece.com/files/bilder/webcam-upload/adamas/cam/current.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος (Pic)
-https://images-webcams.windy.com/78/1474191978/current/full/1474191978.jpg
+#https://images-webcams.windy.com/78/1474191978/current/full/1474191978.jpg
+http://dj7019.myfoscam.org:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=guest&pwd=guest
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος Νοτιοδυτικά Στερνες (Pic)
 https://images-webcams.windy.com/80/1568985180/current/full/1568985180.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος Νοτιοανατολικά Στερνες (Pic)
