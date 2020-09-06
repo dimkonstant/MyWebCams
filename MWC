@@ -402,8 +402,12 @@ http://84.205.238.42:1025/video3.mjpg
 #EXTINF:-1 group-title="Greece WebCams",Ξάνθη Πλατεία Διοικητηρίου 2 (από Δημοτικό Ραδιόφωνο) (Live)
 http://79.129.122.142:32768/asp/video.cgi?profile=2
 # Έβρος ___________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Αλεξανδρούπολη
+https://www.mykosmos.gr/loc_mk/images/webcams/19.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΔΙΔΥΜΟΤΕΙΧΟ 1 (Pic)
 http://penteli.meteo.gr/stations/didymoteicho/webcam.jpg
+#EXTINF:-1 group-title="Greece WebCams",Σαμοθράκη
+https://www.mykosmos.gr/loc_mk/images/webcams/115.jpg
 # Κοζάνη ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Κοζάνη (Live)
 http://livecameras.gr:81/live/koza1/chunks.m3u8
@@ -478,9 +482,14 @@ https://www.mykosmos.gr/loc_mk/images/webcams/344.jpg)
 #EXTINF:-1 group-title="Greece WebCams",Αφίωνας Κέρκυρας 2 (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/649.jpg
 # Λευκάδα _________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Λευκάδα
+https://www.mykosmos.gr/loc_mk/images/webcams/546.jpg
 #EXTINF:-1 group-title="Greece WebCams",Βασιλική Λευκάδας (Live)
 http://livecameras.gr:81/live/lefk1/chunks.m3u8
 # Κεφαλονιά  _________________________________________________________________________________________________________
+# Ζάκυνθος  _________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Ζάκυνθος
+https://www.mykosmos.gr/loc_mk/images/webcams/39.jpg
 # Κυκλάδες __________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Mykonos Beach Webcam (Pic)
 http://www.beachreport.gr/beachcam/schinias/current.jpg
@@ -506,6 +515,13 @@ https://images-webcams.windy.com/80/1262780780/current/full/1262780780.jpg
 https://images-webcams.windy.com/30/1592475230/current/full/1592475230.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος Γαυριο (Pic)
 https://images-webcams.windy.com/77/1587508777/current/full/1587508777.jpg
+# Νησιά Ανατ Αιγαίου __________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Μυτιλήνη
+https://www.mykosmos.gr/loc_mk/images/webcams/92.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ικαρία Εύδηλος
+https://www.mykosmos.gr/loc_mk/images/webcams/177.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ικαρία Αγιος Κήρυκος
+https://www.mykosmos.gr/loc_mk/images/webcams/493.jpg
 # Δωδεκάνησα __________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Rodos Palladium Beach Live Δωδεκάνησα (youtube)
 https://www.youtube.com/watch?v=49Uyt7XBvWw
@@ -515,3 +531,5 @@ https://www.mykosmos.gr/loc_mk/images/webcams/113.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/395.jpg
 #EXTINF:-1 group-title="Greece WebCams",Rhodes Lindos Δωδεκάνησα (Live)
 https://58f14b372a413.streamlock.net:444/visitrhodes1/visitrhodes1.stream/chunklist_w1078654093.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Kos Mastichari Neptune Hotels
+https://www.youtube.com/watch?v=Pa9W15I7z04
