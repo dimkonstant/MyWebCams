@@ -199,29 +199,6 @@ https://www.youtube.com/watch?v=pHcRtaSNWsQ
 # Αργοσαρωνικός  ____________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ύδρα (Live)
 http://livecameras.gr:81/live/hydr1/chunks.m3u8
-# Έυβοια ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Στενή Ευβοίας 2 (Live)
-http://livecameras.gr:81/live/steni2/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Κριεζά Ευβοίας (Live)
-http://livecameras.gr:81/live/kriez1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Κάρυστος Πανόραμα (Pic)
-http://www.in-karystos.gr/camera/paximada.jpg
-#EXTINF:-1 group-title="Greece WebCams",Κάρυστος (Pic)
-http://www.in-karystos.gr/camera/current.jpg
-#EXTINF:-1 group-title="Greece WebCams",Μαρμάρι (Pic)
-http://www.in-karystos.gr/camera/marmari.jpg
-#EXTINF:-1 group-title="Greece WebCams",Στύρα (Pic)
-http://www.in-karystos.gr/camera/styra_cam.jpg
-#EXTINF:-1 group-title="Greece WebCams",ΚαβοΝτορος (Pic)
-http://www.in-karystos.gr/camera/cavodoros.jpg
-#EXTINF:-1 group-title="Greece WebCams",Αλμυροπόταμος (Pic)
-http://www.in-karystos.gr/camera/almyropotamos.jpg
-#EXTINF:-1 group-title="Greece WebCams",Αλιβέρι (Pic)
-http://www.in-aliveri.gr/camera/aliveri.jpg
-#EXTINF:-1 group-title="Greece WebCams",Μετόχι Κηρέως Ευβοίας (Live)
-http://livecameras.gr:81/live/meto1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Ανδρονιάνοι Ευβοίας (Live)
-http://livecameras.gr:81/live/andr1/chunks.m3u8
 # Κορινθία ________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Περαχώρα Λουτρακίου (Live)
 http://livecameras.gr:81/live/pera1/chunks.m3u8
@@ -229,9 +206,6 @@ http://livecameras.gr:81/live/pera1/chunks.m3u8
 https://www.trikala-korinthias.gr/webcam/anotrikala.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τρίκαλα Κορινθίας 3 (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/366.jpg
-# Αργολίδα ________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ναύπλιο
-https://www.mykosmos.gr/loc_mk/images/webcams/196.jpg (Pic)
 # Αχαία _____________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Καστελόκαμπος-Ρίο Πατρών Αχαίας (Live)
 http://livecameras.gr:81/live/rio1/chunks.m3u8
@@ -301,6 +275,9 @@ http://vitina.ddns.net:8100/CGIProxy.fcgi?cmd=snapPicture2&usr=foscam&pwd=foscam
 # Λακωνία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Γύθειο Λακωνίας
 https://www.mykosmos.gr/loc_mk/images/webcams/201.jpg
+# Αργολίδα ________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Ναύπλιο
+https://www.mykosmos.gr/loc_mk/images/webcams/196.jpg (Pic)
 # Βοιωτία ______________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Αγ. Δημήτριος Βοιωτίας (Live)
 http://livecameras.gr:81/live/kopa1/chunks.m3u8
@@ -324,8 +301,31 @@ https://images-webcams.windy.com/02/1478011902/current/full/1478011902.jpg
 # Λαμία ___________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ράχες Φθιώτιδας (Live)
 http://livecameras.gr:81/live/rahes1/chunks.m3u8
+# Έυβοια ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Άγιος Γεώργιος Ιστιάια (Pic)
 https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
+#EXTINF:-1 group-title="Greece WebCams",Στενή Ευβοίας 2 (Live)
+http://livecameras.gr:81/live/steni2/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κριεζά Ευβοίας (Live)
+http://livecameras.gr:81/live/kriez1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κάρυστος Πανόραμα (Pic)
+http://www.in-karystos.gr/camera/paximada.jpg
+#EXTINF:-1 group-title="Greece WebCams",Κάρυστος (Pic)
+http://www.in-karystos.gr/camera/current.jpg
+#EXTINF:-1 group-title="Greece WebCams",Μαρμάρι (Pic)
+http://www.in-karystos.gr/camera/marmari.jpg
+#EXTINF:-1 group-title="Greece WebCams",Στύρα (Pic)
+http://www.in-karystos.gr/camera/styra_cam.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΚαβοΝτορος (Pic)
+http://www.in-karystos.gr/camera/cavodoros.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αλμυροπόταμος (Pic)
+http://www.in-karystos.gr/camera/almyropotamos.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αλιβέρι (Pic)
+http://www.in-aliveri.gr/camera/aliveri.jpg
+#EXTINF:-1 group-title="Greece WebCams",Μετόχι Κηρέως Ευβοίας (Live)
+http://livecameras.gr:81/live/meto1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Ανδρονιάνοι Ευβοίας (Live)
+http://livecameras.gr:81/live/andr1/chunks.m3u8
 # Μαγνησία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Βόλος θέα απο Πύλιο (Pic)
 https://images-webcams.windy.com/57/1452342957/current/full/1452342957.jpg
