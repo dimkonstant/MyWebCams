@@ -281,6 +281,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/201.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ναύπλιο
 https://www.mykosmos.gr/loc_mk/images/webcams/196.jpg (Pic)
 # Βοιωτία ______________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Οινόφυτα Βοιωτίας (Live)
+http://livecameras.gr:81/live/oinof1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Αγ. Δημήτριος Βοιωτίας (Live)
 http://livecameras.gr:81/live/kopa1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Αντίκυρα Βοιωτίας (Live)
@@ -295,8 +297,8 @@ http://livecameras.gr:81/live/leva1/chunks.m3u8
 http://livecameras.gr:81/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Λιβαδειά Βοιωτίας 4 (Live)
 http://livecameras.gr:81/live/leva4/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Οινόφυτα Βοιωτίας (Live)
-http://livecameras.gr:81/live/oinof1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Ζερίκι Βοιωτίας (Live)
+http://livecameras.gr:81/live/zeri1/chunks.m3u8
 # Φωκίδα ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Γαλαξίδι (Pic)
 https://images-webcams.windy.com/02/1478011902/current/full/1478011902.jpg
