@@ -224,13 +224,6 @@ http://www.katovlasia.gr/webcam/mougila.jpg
 http://users.uoa.gr/~george/webcam/current1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Λαμπεία Δίβρη (Pic)
 https://images-webcams.windy.com/99/1387400899/current/full/1387400899.jpg
-# Αιτ/νία ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ορεινή Ναυπακτία Αμπελακιώτισσα
-https://www.mykosmos.gr/loc_mk/images/webcams/396.jpg
-#EXTINF:-1 group-title="Greece WebCams",Γαβαλού Αιτ/νίας 2 (Live)
-http://livecameras.gr:81/live/gaval2/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Γουριά Μεσολογγίου (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/604.jpg
 # Πύργος ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Πύργος Ηλείας (Live)
 http://livecameras.gr:81/live/pirg1/chunks.m3u8
@@ -295,12 +288,33 @@ http://livecameras.gr:81/live/leva2/chunks.m3u8
 http://livecameras.gr:81/live/leva4/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ζερίκι Βοιωτίας (Live)
 http://livecameras.gr:81/live/zeri1/chunks.m3u8
+# Αιτ/νία ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Ορεινή Ναυπακτία Αμπελακιώτισσα
+https://www.mykosmos.gr/loc_mk/images/webcams/396.jpg
+#EXTINF:-1 group-title="Greece WebCams",Γαβαλού Αιτ/νίας 2 (Live)
+http://livecameras.gr:81/live/gaval2/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Γουριά Μεσολογγίου (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/604.jpg
 # Φωκίδα ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Γαλαξίδι (Pic)
 https://images-webcams.windy.com/02/1478011902/current/full/1478011902.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αράχωβα
+https://www.mykosmos.gr/loc_mk/images/webcams/25.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αράχωβα βορεια
+https://www.mykosmos.gr/loc_mk/images/webcams/269.jpg
 # Λαμία ___________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ράχες Φθιώτιδας (Live)
 http://livecameras.gr:81/live/rahes1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Αμφίκλεια 1
+https://www.mykosmos.gr/loc_mk/images/webcams/170.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αμφίκλεια 2
+https://www.mykosmos.gr/loc_mk/images/webcams/171.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αμφίκλεια 5 Αμφίκαια
+https://www.mykosmos.gr/loc_mk/images/webcams/337.jpg
+#EXTINF:-1 group-title="Greece WebCams",Κάτω Τιθορέα
+https://www.mykosmos.gr/loc_mk/images/webcams/628.jpg
+#EXTINF:-1 group-title="Greece WebCams",Παρνασσός (Κελλάρια Ηρακλής)
+https://www.mykosmos.gr/loc_mk/images/webcams/264.jpg
 # Έυβοια ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Άγιος Γεώργιος Ιστιάια (Pic)
 https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
@@ -360,6 +374,10 @@ https://www.mykosmos.gr/loc_mk/images/webcams/331.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/329.jpg
 # Καρδίτσα ________________________________________________________________________________________________________
 # Καρπενήσι ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Καρπενήσι
+https://www.mykosmos.gr/loc_mk/images/webcams/335.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καρπενήσι 2
+https://www.mykosmos.gr/loc_mk/images/webcams/605.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καρπενήσι Ασπρόπυργος (Αντράνοβα) (Pic)
 https://www.evangelou.gr/filipos/NewCamera/HOME_1.jpg
 # Θεσ/νικη ________________________________________________________________________________________________________
