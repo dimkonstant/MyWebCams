@@ -197,11 +197,7 @@ https://www.mykosmos.gr/loc_mk/images/webcams/638.jpg
 #EXTINF:-1 group-title="Greece WebCams",κίνηση εθνικής οδού 17ο χλμ (youtube)
 https://www.youtube.com/watch?v=pHcRtaSNWsQ
 # Αργοσαρωνικός  ____________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ύδρα (Live)
-http://livecameras.gr:81/live/hydr1/chunks.m3u8
 # Κορινθία ________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Περαχώρα Λουτρακίου (Live)
-http://livecameras.gr:81/live/pera1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Τρικαλα Κορινθιας (Pic)
 https://www.trikala-korinthias.gr/webcam/anotrikala.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τρίκαλα Κορινθίας 3 (Pic)
