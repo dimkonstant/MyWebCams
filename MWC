@@ -74,6 +74,10 @@ https://camera.cretaweather.eu/timbaki/camera1.jpg
 https://meteotimb.eu/ipc/image.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τυμπάκι (ΑΝΑΤ) ΗΡΑΚΕΙΟΥ (Pic)
 https://meteotimb.eu/ipc/image3.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΑΓΙΑ ΒΑΡΒΑΡΑ (ΝΑ) ΗΡΑΚΛΕΙΟΥ (Pic)
+https://camera.cretaweather.gr/agiavarvara/camera1.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΜΕΣΟΧΩΡΙ (ΔΥΤ) ΗΡΑΚΛΕΙΟΥ (Pic)
+https://camera.cretaweather.gr/mesoxorio/camera2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Προφήτης Ηλίας
 https://camera.cretaweather.gr/profitisilias/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Χόνδρος
