@@ -161,7 +161,7 @@ http://livecameras.gr:81/live/marko2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΒΟΥΛΑ Βουλιαγμένη (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/232.jpg
 #EXTINF:-1 group-title="Greece WebCams",Βάρκιζα (Live)
-http://s4.ipcamlive.com/streams/045f4497a5066a241/stream.m3u8
+http://s4.ipcamlive.com/streams/045f54ffb9d32d880/stream.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΚΑΝΤΖΑ ΠΑΛΗΝΗ (Pic)
 http://www.meteorama.gr/kantza/KantzaPallinicam.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ραφήνα (Pic)
