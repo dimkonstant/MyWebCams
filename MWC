@@ -416,6 +416,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/303.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/304.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη - Διαβατά 3 (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/305.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ασπροβάλτα Θεσσαλονίκης
+https://www.mykosmos.gr/loc_mk/images/webcams/453.jpg
 # Χαλκιδική ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Αγ. Νικόλαος Σιθωνίας Χαλκιδική 1 (Live)
 http://livecameras.gr:81/live/agnik1/chunks.m3u8
@@ -426,9 +428,28 @@ http://livecameras.gr:81/live/ormo1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Συκιά Νότια Σιθωνία (Pic)
 http://www.camping-melissi.gr/images/melissicam/snap/webcam.jpg
 # Καβάλα ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Καβάλα
+https://www.mykosmos.gr/loc_mk/images/webcams/54.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καβάλα 2
+https://www.mykosmos.gr/loc_mk/images/webcams/287.jpg
+#EXTINF:-1 group-title="Greece WebCams",Παλαιοχώρι Καβάλας
+https://www.mykosmos.gr/loc_mk/images/webcams/186.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ελευθερούπολη Καβάλας
+https://www.mykosmos.gr/loc_mk/images/webcams/208.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θάσος παλαιο λιμάνι (youtube) (Live)
 https://www.youtube.com/watch?v=z0sZNeSnqGU
 # Δράμα ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Δράμα
+https://www.mykosmos.gr/loc_mk/images/webcams/205.jpg
+#EXTINF:-1 group-title="Greece WebCams",Λαϊλιάς Σερρών (Χιονοδρομικό Κέντρο)
+https://www.mykosmos.gr/loc_mk/images/webcams/268.jpg
+#EXTINF:-1 group-title="Greece WebCams",Λαϊλιάς 2 (Χιονοδρομικό Κέντρο)
+https://www.mykosmos.gr/loc_mk/images/webcams/282.jpg
+#EXTINF:-1 group-title="Greece WebCams",Λαϊλιάς 3 (Χιονοδρομικό Κέντρο)
+https://www.mykosmos.gr/loc_mk/images/webcams/559.jpg
+# Σέρρες ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Αλιστράτη Σερρών
+https://www.mykosmos.gr/loc_mk/images/webcams/533.jpg
 # Ξάνθη ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ξάνθη Πλατεία Δημοκρατίας Ρολόι (Live)
 http://84.205.238.41:1025/video4.mjpg
