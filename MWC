@@ -205,6 +205,10 @@ http://livecameras.gr:81/live/rio1/chunks.m3u8
 https://www.mykosmos.gr/loc_mk/images/webcams/106.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό
 https://www.mykosmos.gr/loc_mk/images/webcams/557.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 1 (Pic)
+http://penteli.meteo.gr/stations/kastritsi/anokastritsi1.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 2 (Pic)
+http://penteli.meteo.gr/stations/kastritsi/anokastritsi2.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΙΓΙΟ (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/18.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ακράτα
@@ -296,6 +300,8 @@ https://images-webcams.windy.com/02/1478011902/current/full/1478011902.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/25.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αράχωβα βορεια
 https://www.mykosmos.gr/loc_mk/images/webcams/269.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αράχωβα Cam1 (Live)
+http://livecameras.gr:81/live/arach1/chunks.m3u8
 # Λαμία ___________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ράχες Φθιώτιδας (Live)
 http://livecameras.gr:81/live/rahes1/chunks.m3u8
@@ -309,6 +315,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/337.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/628.jpg
 #EXTINF:-1 group-title="Greece WebCams",Παρνασσός (Κελλάρια Ηρακλής)
 https://www.mykosmos.gr/loc_mk/images/webcams/264.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πολύδροσο Παρνασσού
+https://www.mykosmos.gr/loc_mk/images/webcams/189.jpg
 # Έυβοια ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Άγιος Γεώργιος Ιστιάια (Pic)
 https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
@@ -587,6 +595,8 @@ http://milos-greece.com/files/bilder/webcam-upload/adamas/cam/current.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/209.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος (Pic)
 https://images-webcams.windy.com/78/1474191978/current/full/1474191978.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ανδρος 2
+https://www.mykosmos.gr/loc_mk/images/webcams/23.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος Νοτιοδυτικά Στερνες (Pic)
 https://images-webcams.windy.com/80/1568985180/current/full/1568985180.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνδρος Νοτιοανατολικά Στερνες (Pic)
