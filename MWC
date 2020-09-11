@@ -291,15 +291,15 @@ http://vitina.ddns.net:8100/CGIProxy.fcgi?cmd=snapPicture2&usr=foscam&pwd=foscam
 #EXTINF:-1 group-title="Greece WebCams",Γύθειο Λακωνίας (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/201.jpg
 # Αργολίδα ________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ναύπλιο
-#https://www.mykosmos.gr/loc_mk/images/webcams/196.jpg (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Ναύπλιο (Pic)
+#https://www.mykosmos.gr/loc_mk/images/webcams/196.jpg
 # Βοιωτία ______________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Οινόφυτα Βοιωτίας (Live)
 http://livecameras.gr:81/live/oinof1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Αγ. Δημήτριος Βοιωτίας (Live)
 http://livecameras.gr:81/live/kopa1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ ΚΩΠΑΪΔΑΣ (Pic)
-https://www.kopaida.gr/cams/adcam3.jpg (Pic)
+https://www.kopaida.gr/cams/adcam3.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αντίκυρα Βοιωτίας (Live)
 http://livecameras.gr:81/live/anti1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Θήβα Βοιωτίας (Live)
@@ -634,7 +634,7 @@ https://www.mykosmos.gr/loc_mk/images/webcams/39.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΜΑΡΑΘΙΑΣ ΖΑΚΥΝΘΟΥ (Pic)
 https://www.zakynthos.at/Cam2/ZanteCam-2.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΖΑΚΥΝΘΟΣ ΠΡΟΣ ΜΑΡΑΘΟΝΗΣΙ (Pic)
-https://www.zakynthos.at/zantecam/webcam.jpg (Pic)
+https://www.zakynthos.at/zantecam/webcam.jpg
 # Κυκλάδες __________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Τήνος (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/137.jpg
