@@ -248,8 +248,11 @@ https://www.trikala-korinthias.gr/webcam/trikalakorinthias.jpg
 https://www.trikala-korinthias.gr/webcam/trikalaplatia.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τρίκαλα Κορινθίας (Κάτω Τρίκαλα) (Pic)
 https://www.trikala-korinthias.gr/webcam/katotrikalaplatia.jpg
-#EXTINF:-1 group-title="Greece WebCams",Καισάριο Κορινθίας (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/564.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καισάριο Κορινθίας Θέα Κλημέντι (Pic)
+http://www.meteokaisari-zireia.gr/cam/cam1/cam1.php?t=1599904531743
+#https://www.mykosmos.gr/loc_mk/images/webcams/564.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καισάριο Κορινθίας Ανατολικά (Pic)
+http://www.meteokaisari-zireia.gr/cam/cam1/cam1.php?t=1599904531743
 # Αχαία _____________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Καστελόκαμπος-Ρίο Πατρών Αχαίας (Live)
 http://livecameras.gr:81/live/rio1/chunks.m3u8
