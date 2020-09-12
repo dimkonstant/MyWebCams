@@ -254,9 +254,15 @@ https://www.mykosmos.gr/loc_mk/images/webcams/564.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καστελόκαμπος-Ρίο Πατρών Αχαίας (Live)
 http://livecameras.gr:81/live/rio1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Πάτρα (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/106.jpg
-#EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/557.jpg
+http://penteli.meteo.gr/stations/patra-romanos/romanos2.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/106.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό Βόρεια (Pic)
+http://penteli.meteo.gr/stations/patra-romanos/romanos.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/557.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό Ανατολικα (Pic)
+http://penteli.meteo.gr/stations/patra-romanos/romanos3.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό Νότια (Pic)
+http://penteli.meteo.gr/stations/patra-romanos/romanos4.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 1 (Pic)
 http://penteli.meteo.gr/stations/kastritsi/anokastritsi1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 2 (Pic)
