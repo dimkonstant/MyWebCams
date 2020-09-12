@@ -40,6 +40,8 @@ https://camera.cretaweather.gr/anogeia/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τριόπετρα Ρεθύμνου (Pic)
 https://www.triopetra.de/images/webcam/snap.jpg
 # Ηράκλειο _____________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Ηράκλειο (Pic)
+http://iraklio-kritis.meteoclub.gr/webcam/iraklio.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κουτουλουφάρι Ηρακλείου (Pic)
 https://camera.cretaweather.gr/koutouloufari/camera1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αγία Βαρβάρα Ηρακλείου (Live)
@@ -715,9 +717,9 @@ https://www.mykosmos.gr/loc_mk/images/webcams/134.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/591.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάρος (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/261.jpg
-#EXTINF:-1 group-title="Greece WebCams",Νάξος 4 (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/242.jpg
-#https://www.mykosmos.gr/loc_mk/images/webcams/93.jpg
+#EXTINF:-1 group-title="Greece WebCams",Νάξος Μικρή Βίγλα (Pic)
+http://mikrivigla.dyndns.tv/cgi-bin/viewer/video.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/242.jpg
 #EXTINF:-1 group-title="Greece WebCams",Απόλλωνας Νάξος (Pic)
 http://www.koronida-naxos.gr/WebImages/imgapl.jpg
 #EXTINF:-1 group-title="Greece WebCams",Σίφνος (Pic)
@@ -754,7 +756,8 @@ https://images-webcams.windy.com/30/1592475230/current/full/1592475230.jpg
 https://images-webcams.windy.com/77/1587508777/current/full/1587508777.jpg
 # Νησιά Ανατ Αιγαίου __________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Μυτιλήνη (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/92.jpg
+http://www.weather.molyvos.eu/image.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/92.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ικαρία Εύδηλος (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/177.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ικαρία Αγιος Κήρυκος (Pic)
