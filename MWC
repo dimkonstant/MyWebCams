@@ -309,7 +309,6 @@ http://livecameras.gr:81/live/kala2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας Παραλία 1 (Live)
 http://livecameras.gr:81/live/kala3/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας Παραλία 1 (Pic)
-http://livecameras.gr:81/live/kala3/chunks.m3u8
 http://kalamata.meteoclub.gr/webcam/paralia3.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας Παραλία 2 (Live)
 http://livecameras.gr:81/live/kala4/chunks.m3u8
