@@ -141,11 +141,17 @@ http://livecameras.gr:81/live/ymit1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Υμηττός Αττικής (Νότια) (Pic)
 http://ymittoscam.forecastweather.gr/ymittos.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πειραιάς (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/15.jpg
+http://pireas.meteoclub.gr/Webcam.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/15.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πειραιάς 2 (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/230.jpg
-#EXTINF:-1 group-title="Greece WebCams",Νίκαια (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/231.jpg
+#EXTINF:-1 group-title="Greece WebCams",Νίκαια με θέα Βορειοανατολικά (Pic)
+http://nikaia-davis.meteoclub.gr/peiraias1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Νίκαια με θέα Νοτιοανατολικά (Pic)
+http://nikaia-davis.meteoclub.gr/peiraias.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/231.jpg
+#EXTINF:-1 group-title="Greece WebCams",Νεάπολη Νίκαια (Pic)
+http://neapoli-nikaia.meteoclub.gr/webcam/latest.jpg
 #EXTINF:-1 group-title="Greece WebCams",Δραπετσώνα (Pic) 
 https://www.mykosmos.gr/loc_mk/images/webcams/238.jpg
 #EXTINF:-1 group-title="Greece WebCams",Aνω Λιόσια Αττικής (Live)
@@ -189,6 +195,8 @@ http://loutsa.meteoclub.gr/webcam/loutsa1.jpg
 #https://www.mykosmos.gr/loc_mk/images/webcams/354.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ωρωπός Αττικής (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/220.jpg
+#EXTINF:-1 group-title="Greece WebCams",Οινόη Αττικής (Pic)
+http://oinoi.meteoclub.gr/webcam/oinoi.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ερυθρές (Κριεκούκι) (Pic)
 http://erythres.meteoclub.gr/webcam/erythres.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μανδρα Αττικής
