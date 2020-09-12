@@ -117,7 +117,8 @@ https://penteli.meteo.gr/stations/penteli/webcam/meteocam1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ομόνοια (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/180.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αθήνα Γκάζι (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/181.jpg
+http://www.meteo.gr/stations/athens/webcam.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/181.jpg
 #EXTINF:-1 group-title="Greece WebCams",Παναθηναϊκό Στάδιο (Live)
 http://view.dikemes.edu.gr/mjpg/video.mjpg
 #EXTINF:-1 group-title="Greece WebCams",Πατήσια Αθήνα (Pic)
