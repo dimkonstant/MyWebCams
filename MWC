@@ -110,8 +110,10 @@ https://assets1.webcam.io/w/ZP6mv9/latest.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ποτάμοι Λασιθίου (Pic)
 https://camera.cretaweather.gr/potamoi/camera1.jpg
 # ΑΤΤΙΚΗ _________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Πεντέλη προς Αθήνα (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Πεντέλη Πανόραμα (Pic)
 http://penteli.meteo.gr/stations/penteli/webcam/panorama.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πεντέλη προς Αθήνα (Pic)
+http://penteli.meteo.gr/stations/penteli/webcam/meteocam2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πεντέλη προς Πάρνηθα (Pic)
 https://penteli.meteo.gr/stations/penteli/webcam/meteocam1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ομόνοια (Pic)
