@@ -447,6 +447,11 @@ https://images-webcams.windy.com/14/1587509914/current/full/1587509914.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/647.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πτελεός (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/333.jpg
+# Λάρισσα ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Λάρισσα 2
+http://larisa.meteoclub.gr/camera/01.jpg
+#EXTINF:-1 group-title="Greece WebCams",Συκούριο Κίσσαβος Λάρισσας
+http://sykourio.meteoclub.gr/webcam/Webcam.jpg
 # Τρίκαλα ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Τρίκαλα (Live)
 https://mediacp.alphastream.eu/trikalacam2/trikalacam2.stream/chunklist_w947908382.m3u8
@@ -457,7 +462,8 @@ https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunklist_w709012572.
 #EXTINF:-1 group-title="Greece WebCams",Περτούλι (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/331.jpg
 #EXTINF:-1 group-title="Greece WebCams",Γαρδίκι Τρικάλων (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/329.jpg
+http://www.gardiki-live.gr/livecam/live000M.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/329.jpg
 #EXTINF:-1 group-title="Greece WebCams",Διπόταμος Τρικάλων (με θέα Ανατολικά προς τα Τρίκαλα) (Pic)
 https://www.terracom.gr/cams/cam25.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καλαμπάκα Μετέωρα (Pic)
@@ -630,12 +636,11 @@ https://penteli.meteo.gr/stations/metsovo/webcam.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/535.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κεράσοβο Ιωαννίων (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/521.jpg
-#EXTINF:-1 group-title="Greece WebCams",Τσεπέλοβο (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/323.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ζίτσα Ιωάννινα (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/314.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τσεπέλοβο (Pic)
 https://www.terracom.gr/sites/default/files/pictures/cam_01/cam05.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/323.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τσεπέλοβο (Pic)
 https://www.terracom.gr/cams/cam24.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τυμφαία Επαυλη στο Τσεπέλοβο (Pic)
