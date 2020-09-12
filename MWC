@@ -259,10 +259,17 @@ https://www.mykosmos.gr/loc_mk/images/webcams/557.jpg
 http://penteli.meteo.gr/stations/kastritsi/anokastritsi1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 2 (Pic)
 http://penteli.meteo.gr/stations/kastritsi/anokastritsi2.jpg
-#EXTINF:-1 group-title="Greece WebCams",ΑΙΓΙΟ (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/18.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αίγιο θέα νότια (live)
+http://stream.familonidis.io/hls/aigio.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Αίγιο θέα νότια (Pic)
+http://aigio-kentro.meteoclub.gr/aigio-kentro.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/18.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αίγιο (Pic)
+http://aigio.meteoclub.gr/webcam/aigio.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ακράτα (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/616.jpg
+#EXTINF:-1 group-title="Greece WebCams",Αχαϊκό Χωριό Καλάβρυτα (Pic)
+http://achaikochorio.meteoclub.gr/webcam/achaiko.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΚΑΤΩ ΒΛΑΣΙΑ ΚΑΛΑΒΡΥΤΩΝ ΑΧΑΪΑΣ 1 ΟΡΟΣ ΚΑΛΛΙΦΩΝΙ (Pic)
 #http://users.uoa.gr/~george/webcam/current0.jpg
 https://images-webcams.windy.com/88/1311883888/current/full/1311883888.jpg
@@ -466,11 +473,12 @@ http://www.snowreport.gr/snowcam/olympos/current.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη Κέντρο (Pic)
 https://images-webcams.windy.com/45/1341763045/current/full/1341763045.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη Καμάρα1 (Pic)
+https://www.iama.gr/weather/image.jpg
+#https://images-webcams.windy.com/35/1171040535/current/full/1171040535.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη ΔΕΘ (Pic)
 https://penteli.meteo.gr/stations/helexpo/webcam/meteocam1.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΘΕΣ/ΝΙΚΗ NOESIS (Pic)
 https://penteli.meteo.gr/stations/noesis/webcam.jpg
-https://images-webcams.windy.com/35/1171040535/current/full/1171040535.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη - 40 Εκκλησιές (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/45.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη Βόρειοανατολικά (Pic)
@@ -480,7 +488,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/276.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη Σοχός (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/635.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ωραιόκαστρο Θεσσαλονίκης (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/406.jpg
+http://www.meteokastro.gr/camera/Webcam.jpg
+#https://www.mykosmos.gr/loc_mk/images/webcams/406.jpg
 #EXTINF:-1 group-title="Greece WebCams",Θεσσαλονίκη λιμάνι (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/153.jpg
 #EXTINF:-1 group-title="Greece WebCams",Διαβατά (Pic)
