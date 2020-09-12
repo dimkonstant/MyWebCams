@@ -358,11 +358,15 @@ http://livecameras.gr:81/live/leva2/chunks.m3u8
 http://livecameras.gr:81/live/leva4/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ζερίκι Βοιωτίας (Live)
 http://livecameras.gr:81/live/zeri1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Καπαρέλλι ΒοιωτίαςΣ (Pic)
+http://kaparelli.meteoclub.gr/webcam/kaparelli.jpg
 # Αιτ/νία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ορεινή Ναυπακτία Αμπελακιώτισσα (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/396.jpg
 #EXTINF:-1 group-title="Greece WebCams",Γαβαλού Αιτ/νίας 2 (Live)
 http://livecameras.gr:81/live/gaval2/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Μεσολόγγι Αιτωλοακαρνανίας (Pic)
+http://mesologgi-epal.meteoclub.gr/webcam/mesologgi.jpg
 #EXTINF:-1 group-title="Greece WebCams",Γουριά Μεσολογγίου (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/604.jpg
 # Φωκίδα ________________________________________________________________________________________________________
@@ -398,6 +402,12 @@ https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
 http://livecameras.gr:81/live/steni2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Κριεζά Ευβοίας (Live)
 http://livecameras.gr:81/live/kriez1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κριεζά (Pic)
+http://krieza.meteoclub.gr/snapshot/curent001.jpg
+#EXTINF:-1 group-title="Greece WebCams",Μανδράκι Εύβοια (Pic)
+http://mandraki.meteoclub.gr/webcam/mandraki.jpg
+#EXTINF:-1 group-title="Greece WebCams",Πισσώνας Εύβοιας (Pic)
+http://pissonas.meteoclub.gr/webcam/pissonas.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κάρυστος Πανόραμα (Pic)
 http://www.in-karystos.gr/camera/paximada.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κάρυστος (Pic)
@@ -464,6 +474,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/335.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/605.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καρπενήσι Ασπρόπυργος (Αντράνοβα) (Pic)
 https://www.evangelou.gr/filipos/NewCamera/HOME_1.jpg
+#EXTINF:-1 group-title="Greece WebCams",Χελιδόνα Ευρυτανίας 620μ (Pic)
+http://helidona.meteoclub.gr/webcam/helidona.jpg
 # Ημαθεία  ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Αλεξάνδρεια Ημαθείας (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/645.jpg
@@ -622,6 +634,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/521.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/323.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ζίτσα Ιωάννινα (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/314.jpg
+#EXTINF:-1 group-title="Greece WebCams",Τσεπέλοβο (Pic)
+https://www.terracom.gr/sites/default/files/pictures/cam_01/cam05.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τσεπέλοβο (Pic)
 https://www.terracom.gr/cams/cam24.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τυμφαία Επαυλη στο Τσεπέλοβο (Pic)
