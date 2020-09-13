@@ -309,12 +309,11 @@ http://livecameras.gr:81/live/kala4/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Προφήτης Ηλίας (Pic)
 http://kalamata.meteoclub.gr/webcam/profitisilias.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΚαλαμάταΚ Νησάκι (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/59.jpg
+http://www.weather-messinia.gr/cams/nisaki.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Από Ταϋγέτη Αίθουσα Εκδηλώσεων (Pic)
 http://kalamata.meteoclub.gr/webcam/taygeti.jpg
-#https://www.mykosmos.gr/loc_mk/images/webcams/501.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πεταλίδι Μεσσηνίας (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/506.jpg
+http://weather-messinia.gr/cams/petalidi.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καραδμύλη (Pic)
 http://aaaf0acdc9c3.sn.mynetname.net:8080/cgi-bin/faststream.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πύλος Μεσσηνίας 1 (Live)
@@ -326,9 +325,11 @@ http://thines.dyndns.info/video.mjpg
 #EXTINF:-1 group-title="Greece WebCams",Κυπαρισσία Μεσσηνίας (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/528.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κορομηλιά Μεσσηνίας (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/507.jpg
+http://weather-messinia.gr/cams/koromilia.jpg
+#EXTINF:-1 group-title="Greece WebCams",Κορομηλιά Μεσσηνίας 2 (Pic)
+http://weather-messinia.gr/cams/koromilia2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Νέδουσα Μεσσηνίας προς όρος Μαλεβό (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/502.jpg
+http://weather-messinia.gr/cams/nedousa.jpg
 # Αρκαδία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Τρίπολη Αρκαδίας (Live)
 http://livecameras.gr:81/live/trip1/chunks.m3u8
