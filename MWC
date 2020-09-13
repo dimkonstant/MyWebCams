@@ -225,8 +225,6 @@ http://livecameras.gr:81/live/dion1/chunks.m3u8
 https://www.mykosmos.gr/loc_mk/images/webcams/222.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καταφύγιο Μπάφι Πάρνηθας 1 (Pic)
 http://parnithacam1.forecastweather.gr/parnithacam1.jpg
-#EXTINF:-1 group-title="Greece WebCams",Καταφύγιο Φλαμπούρι Πάρνηθα 2 (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/638.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μαλακάσα Αττικής (live)
 http://stream.familonidis.io/hls/malakasa.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Κίνηση εθνικής οδού 17ο χλμ (youtube)
