@@ -185,7 +185,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/491.jpg
 #EXTINF:-1 group-title="Greece WebCams",Βούλα Βουλιαγμένη (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/232.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κάντζα Παλήνη (Pic)
-http://www.meteorama.gr/kantza/KantzaPallinicam.jpg
+#http://www.meteorama.gr/kantza/KantzaPallinicam.jpg
+https://www.mykosmos.gr/loc_mk/images/webcams/191.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ανω Διώνη Πικέρμι (Pic)
 http://anodioni-pikermi.meteoclub.gr/webcam/pikermi.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ραφήνα (Pic)
@@ -365,7 +366,7 @@ http://livecameras.gr:81/live/leva1/chunks.m3u8
 http://livecameras.gr:81/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Λιβαδειά Βοιωτίας 4 (Live)
 http://livecameras.gr:81/live/leva4/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",leivadiaΛιβαδειά Βοιωτίας (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Λιβαδειά Βοιωτίας (Pic)
 http://www.meteolivadia.com/webcam/livadia1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ζερίκι Βοιωτίας (Live)
 http://livecameras.gr:81/live/zeri1/chunks.m3u8
