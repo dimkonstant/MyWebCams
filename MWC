@@ -295,6 +295,8 @@ https://images-webcams.windy.com/99/1387400899/current/full/1387400899.jpg
 http://livecameras.gr:81/live/pirg1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Αρχαία Ολυμπία χωριό Υψηλό (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/478.jpg
+#EXTINF:-1 group-title="Greece WebCams",Κυλλήνη Αρκούδι Almira Hotel
+http://almira.ath.cx:8019/axis-cgi/mjpg/video.cgi?resolution=640x480&dummy=1599912406026
 # Μεσσηνία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας (Καλάθι) (Live)
 http://livecameras.gr:81/live/kala1/chunks.m3u8
@@ -312,6 +314,8 @@ http://kalamata.meteoclub.gr/webcam/profitisilias.jpg
 http://www.weather-messinia.gr/cams/nisaki.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Από Ταϋγέτη Αίθουσα Εκδηλώσεων (Pic)
 http://kalamata.meteoclub.gr/webcam/taygeti.jpg
+#EXTINF:-1 group-title="Greece WebCams",ΚαλαμάταΚ Κάστρο (Pic)
+http://weather-messinia.gr/cams/north000M.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πεταλίδι Μεσσηνίας (Pic)
 http://weather-messinia.gr/cams/petalidi.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καραδμύλη (Pic)
