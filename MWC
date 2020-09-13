@@ -345,6 +345,8 @@ http://weather-messinia.gr/cams/nedousa.jpg
 http://livecameras.gr:81/live/trip1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Βυτίνα (Pic)
 http://vitina.ddns.net:8100/CGIProxy.fcgi?cmd=snapPicture2&usr=foscam&pwd=foscam
+#EXTINF:-1 group-title="Greece WebCams",Νιοχώρι Αρκαδία
+http://kalamata.meteoclub.gr/webcam/niochori.jpg (Pic)
 # Λακωνία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Γύθειο Λακωνίας (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/201.jpg
@@ -370,9 +372,11 @@ http://livecameras.gr:81/live/leva1/chunks.m3u8
 http://livecameras.gr:81/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Λιβαδειά Βοιωτίας 4 (Live)
 http://livecameras.gr:81/live/leva4/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",leivadiaΛιβαδειά Βοιωτίας (Pic)
+http://www.meteolivadia.com/webcam/livadia1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ζερίκι Βοιωτίας (Live)
 http://livecameras.gr:81/live/zeri1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Καπαρέλλι ΒοιωτίαςΣ (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Καπαρέλλι Βοιωτίας (Pic)
 http://kaparelli.meteoclub.gr/webcam/kaparelli.jpg
 # Αιτ/νία ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ορεινή Ναυπακτία Αμπελακιώτισσα (Pic)
@@ -387,7 +391,7 @@ https://www.mykosmos.gr/loc_mk/images/webcams/604.jpg
 #EXTINF:-1 group-title="Greece WebCams",Γαλαξίδι (Pic)
 https://images-webcams.windy.com/02/1478011902/current/full/1478011902.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αράχωβα (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/25.jpg
+http://www.meteoarachova.com/webcam/arachova1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αράχωβα βορεια (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/269.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αράχωβα Cam1 (Live)
