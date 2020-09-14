@@ -453,6 +453,8 @@ https://images-webcams.windy.com/14/1587509914/current/full/1587509914.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/647.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πτελεός (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/334.jpg
+#EXTINF:-1 group-title="Greece WebCams",Σκοπελος (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/262.jpg
 # Λάρισσα ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Λάρισσα 2
 http://larisa.meteoclub.gr/camera/01.jpg
@@ -465,6 +467,8 @@ https://mediacp.alphastream.eu/trikalacam2/trikalacam2.stream/chunklist_w9479083
 https://mediacp.alphastream.eu/trikalacam/trikalacam.stream/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ελάτη Τρικάλων (Live)
 https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunklist_w709012572.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Τρίκαλα (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/143.jpg
 #EXTINF:-1 group-title="Greece WebCams",Περτούλι (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/331.jpg
 #EXTINF:-1 group-title="Greece WebCams",Γαρδίκι Τρικάλων (Pic)
