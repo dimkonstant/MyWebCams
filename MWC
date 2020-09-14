@@ -351,6 +351,8 @@ https://www.mykosmos.gr/loc_mk/images/webcams/431.jpg
 http://thines.dyndns.info/video.mjpg
 #EXTINF:-1 group-title="Greece WebCams",Κυπαρισσία Μεσσηνίας (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/528.jpg
+#EXTINF:-1 group-title="Greece WebCams",Κυπαρισσία Μεσσηνίας (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/505.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κορομηλιά Μεσσηνίας (Pic)
 http://weather-messinia.gr/cams/koromilia.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κορομηλιά Μεσσηνίας 2 (Pic)
@@ -491,8 +493,6 @@ http://www.fylakti.com/image3.jpg
 #EXTINF:-1 group-title="Greece WebCams",Φυλακτή Καρδίτσα (youtube)
 https://www.youtube.com/watch?v=jQvecn3JX7k&feature=youtu.be
 # Καρπενήσι ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Καρπενήσι (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/335.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καρπενήσι 2 (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/605.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καρπενήσι Ασπρόπυργος (Αντράνοβα) (Pic)
