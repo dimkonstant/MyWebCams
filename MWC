@@ -576,15 +576,15 @@ https://www.youtube.com/watch?v=z0sZNeSnqGU
 # Δράμα ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Δράμα (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/205.jpg
+# Σέρρες ________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Αλιστράτη Σερρών (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/533.jpg
 #EXTINF:-1 group-title="Greece WebCams",Λαϊλιάς Σερρών (Χιονοδρομικό Κέντρο (Pic))
 https://www.mykosmos.gr/loc_mk/images/webcams/268.jpg
 #EXTINF:-1 group-title="Greece WebCams",Λαϊλιάς 2 (Χιονοδρομικό Κέντρο) (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/282.jpg
 #EXTINF:-1 group-title="Greece WebCams",Λαϊλιάς 3 (Χιονοδρομικό Κέντρο) (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/559.jpg
-# Σέρρες ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Αλιστράτη Σερρών (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/533.jpg
 # Ξάνθη ________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ξάνθη Πλατεία Δημοκρατίας Ρολόι (Live)
 http://84.205.238.41:1025/video4.mjpg
