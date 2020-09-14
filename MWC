@@ -275,10 +275,10 @@ https://www.trikala-korinthias.gr/webcam/katotrikalaplatia.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καισάριο Κορινθίας Θέα Κλημέντι (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/564.jpg
 # Αχαία _____________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Καστελόκαμπος-Ρίο Πατρών Αχαίας (Live)
-http://livecameras.gr:81/live/rio1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Πάτρα (Pic)
 http://penteli.meteo.gr/stations/patra-romanos/romanos2.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καστελόκαμπος-Ρίο Πατρών Αχαίας (Live)
+http://livecameras.gr:81/live/rio1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ρίο Καστελόκαμπος (Pic)
 http://grhost.info/my.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ρίο Γέφυρα (Pic)
@@ -289,14 +289,12 @@ http://penteli.meteo.gr/stations/patra-romanos/romanos.jpg
 http://penteli.meteo.gr/stations/patra-romanos/romanos3.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό Νότια (Pic)
 http://penteli.meteo.gr/stations/patra-romanos/romanos4.jpg
-#EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 1 (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Άνω Καστρίτσι 1 (Pic)
 http://penteli.meteo.gr/stations/kastritsi/anokastritsi1.jpg
-#EXTINF:-1 group-title="Greece WebCams",ΑΝΩ ΚΑΣΤΡΙΤΣΙ ΑΧΑΪΑΣ 2 (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Άνω Καστρίτσι 2 (Pic)
 http://penteli.meteo.gr/stations/kastritsi/anokastritsi2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αίγιο θέα νότια (live)
 http://stream.familonidis.io/hls/aigio.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Αίγιο θέα νότια (Pic)
-http://aigio-kentro.meteoclub.gr/aigio-kentro.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αλυκή Αίγιο (Pic)
 http://aigio.meteoclub.gr/webcam/aigio.jpg
 #EXTINF:-1 group-title="Greece WebCams",Παρασκευή Αιγιαλείας (Pic)
@@ -471,10 +469,10 @@ http://www.northmeteo.gr/cam/elassona/webcam.jpg?t=
 https://mediacp.alphastream.eu/trikalacam2/trikalacam2.stream/chunklist_w947908382.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Τρίκαλα 2 (Live)
 https://mediacp.alphastream.eu/trikalacam/trikalacam.stream/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Ελάτη Τρικάλων (Live)
-https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunklist_w709012572.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Τρίκαλα (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/143.jpg
+#EXTINF:-1 group-title="Greece WebCams",Ελάτη Τρικάλων (Live)
+https://mediacp.alphastream.eu/elaticamera/livecine.stream/chunklist_w709012572.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Περτούλι (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/331.jpg
 #EXTINF:-1 group-title="Greece WebCams",Γαρδίκι Τρικάλων (Pic)
