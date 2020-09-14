@@ -504,8 +504,8 @@ http://94.68.105.201:8081/video.mjpg?q=75&fps=100&id=0.40116435745777057&r=15999
 #EXTINF:-1 group-title="Greece WebCams",Στενήμαχος Νάουσα (Pic)
 http://users.otenet.gr/~apmir/webcam0.jpg
 # Πιερία  ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",ΟΛΥΜΠΟΣ ΟΡΟΠΕΔΙΟ ΜΟΥΣΩΝ (Pic)
-http://www.snowreport.gr/snowcam/olympos/current.jpg
+#EXTINF:-1 group-title="Greece WebCams",Όλυμπος
+https://www.mykosmos.gr/loc_mk/images/webcams/99.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μακρύγιαλος Πιερία Βόρεια
 http://makrigialos.sv2bzq.gr/webcam/TinCam4.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μακρύγιαλος Πιερία Νότια
