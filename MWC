@@ -386,8 +386,6 @@ http://www.meteoarachova.com/webcam/arachova1.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/269.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αράχωβα Cam1 (Live)
 http://livecameras.gr:81/live/arach1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Αράχωβα 2 (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/626.jpg
 # Λαμία ___________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Ράχες Φθιώτιδας (Live)
 http://livecameras.gr:81/live/rahes1/chunks.m3u8
