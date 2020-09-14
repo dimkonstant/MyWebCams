@@ -686,6 +686,28 @@ http://livecameras.gr:81/live/ithak4/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Πλατρειθιάς Ιθάκη (Live)
 http://livecameras.gr:81/live/ithak5/chunks.m3u8
 # Κέρκυρα _________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Ακταίον Λεωφ. Δημοκρατίας Παλαιό Φρούριο (Live)
+https://corfulive.gr/aktaion/aktaion.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Μονή Βλαχερνών Ποντικονήσι (Live)
+https://srv2.corfulive.gr/floisvos/floisvos.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Ανεμόμυλος Nautilus (Live)
+https://corfulive.gr/nautilos/nautilos.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Γέφυρα του Κάιζερ (Live)
+https://corfulive.gr/kaizer_bridge/kaizer_bridge.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Κασσιόπη Porto Nuovo Restaurant (Live)
+https://corfulive.gr/portonuovo/portonuovo.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Καλάμι The White House Restaurant (Live)
+https://corfulive.gr/the_white_house/the_white_house.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Ύψος Mojitos (Live)
+https://corfulive.gr/Mojitos/Mojitos.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Παραλία Κοντογυαλού Spyros Seaside Bar Restaurant (Live)
+https://corfulive.gr/akti_kontogialos/akti_kontogialos.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Παλαιοκαστρίτσα (Live)
+https://corfulive.gr/Akron/Akron.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Παλαιοκαστρίτσα Vrachos (Live)
+https://corfulive.gr/vrachos/vrachos.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Παλαιοκαστρίτσα Apartments (Live)
+https://corfulive.gr/paleo_apts/paleo_apts.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Κέρκυρα Αυλιώτες (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/71.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αρίλλας Κέρκυρα (Pic)
@@ -708,6 +730,12 @@ https://www.zakynthos.at/Cam2/ZanteCam-2.jpg
 #EXTINF:-1 group-title="Greece WebCams",ΖΑΚΥΝΘΟΣ ΠΡΟΣ ΜΑΡΑΘΟΝΗΣΙ (Pic)
 https://www.zakynthos.at/zantecam/webcam.jpg
 # Κυκλάδες __________________________________________________________________________________________________________
+#EXTINF:-1 group-title="Greece WebCams",Μύκονος
+http://mykonos62.flashmediacast.com:1935/mykonos62/livestream/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Σαντορίνη (Pic)
+https://www.santorini.net/wp-content/uploads/webcam-images/caldera.jpg
+#EXTINF:-1 group-title="Greece WebCams",Σαντορίνη 2 (Pic)
+https://www.mykosmos.gr/loc_mk/images/webcams/121.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τήνος (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/137.jpg
 #EXTINF:-1 group-title="Greece WebCams",Τήνος 2 (Pic)
@@ -728,12 +756,6 @@ http://www.koronida-naxos.gr/WebImages/imgapl.jpg
 https://www.mykosmos.gr/loc_mk/images/webcams/126.jpg
 #EXTINF:-1 group-title="Greece WebCams",Φολέγανδρος (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/145.jpg
-#EXTINF:-1 group-title="Greece WebCams",Μύκονος Beach Webcam (Pic)
-http://www.beachreport.gr/beachcam/schinias/current.jpg
-#EXTINF:-1 group-title="Greece WebCams",Σαντορίνη (Pic)
-https://www.santorini.net/wp-content/uploads/webcam-images/caldera.jpg
-#EXTINF:-1 group-title="Greece WebCams",Σαντορίνη 2 (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/121.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μήλος (Pic)
 http://milos-greece.com/files/bilder/webcam-upload/adamas/cam/current.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μήλος 2 (Pic)
