@@ -327,24 +327,24 @@ https://www.mykosmos.gr/loc_mk/images/webcams/478.jpg
 #EXTINF:-1 group-title="Greece WebCams",Κυλλήνη Αρκούδι Almira Hotel
 http://almira.ath.cx:8019/axis-cgi/mjpg/video.cgi?resolution=640x480&dummy=1599912406026
 # Μεσσηνία ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας (Live)
-http://livecameras.gr:81/live/kala1/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας (Live)
-http://livecameras.gr:81/live/kala2/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας Παραλία (Live)
+#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Παραλία (Live1)
 http://livecameras.gr:81/live/kala4/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας Παραλία (Live)
+#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Παραλία (Live2)
 http://livecameras.gr:81/live/kala3/chunks.m3u8
-#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας Παραλία (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Παραλία (Pic)
 http://kalamata.meteoclub.gr/webcam/paralia3.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Προφήτης Ηλίας (Pic)
 http://kalamata.meteoclub.gr/webcam/profitisilias.jpg
-#EXTINF:-1 group-title="Greece WebCams",ΚαλαμάταΚ Νησάκι (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Νησάκι (Pic)
 http://www.weather-messinia.gr/cams/nisaki.jpg
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Κάστρο (Pic)
 http://weather-messinia.gr/cams/north000M.jpg
-#EXTINF:-1 group-title="Greece WebCams",Webcam Καλαμάτα βορειοδυτικά (Pic)
+#EXTINF:-1 group-title="Greece WebCams",Webcam Καλαμάτα Βορειοδυτικά (Pic)
 https://www.mykosmos.gr/loc_mk/images/webcams/412.jpg
+#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας (Live1)
+http://livecameras.gr:81/live/kala1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Καλαμάτα Μεσσηνίας (Live2)
+http://livecameras.gr:81/live/kala2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Καλαμάτα (θέα Ταϋγέτη) (Pic)
 http://kalamata.meteoclub.gr/webcam/taygeti.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πεταλίδι Μεσσηνίας (Pic)
