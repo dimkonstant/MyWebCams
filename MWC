@@ -771,8 +771,6 @@ http://livecameras.gr:81/live/ithak4/chunks.m3u8
 http://livecameras.gr:81/live/ithak5/chunks.m3u8
 # Κεφαλονιά  _________________________________________________________________________________________________________
 # Ζάκυνθος  _________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Ζάκυνθος (Pic)
-https://www.mykosmos.gr/loc_mk/images/webcams/39.jpg
 #EXTINF:-1 group-title="Greece WebCams",Μαραθιάς Ζακύνθου(Pic)
 https://www.zakynthos.at/Cam2/ZanteCam-2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ζάκυνθος προς Μαραθονήσι (Pic)
