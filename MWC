@@ -227,8 +227,6 @@ https://video1.earthcam.com/myearthcam/323325d76c9d947e48a7ce130e8cdb02.flv/chun
 #EXTINF:-1 group-title="Greece WebCams",Ύδρα (Live)
 http://livecameras.gr:81/live/hydr1/chunks.m3u8
 # Έυβοια ________________________________________________________________________________________________________
-#EXTINF:-1 group-title="Greece WebCams",Άγιος Γεώργιος Ιστιάια (Pic)
-https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
 #EXTINF:-1 group-title="Greece WebCams",Στενή Ευβοίας 2 (Live)
 http://livecameras.gr:81/live/steni2/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Κριεζά Ευβοίας (Live)
@@ -257,6 +255,8 @@ http://www.in-aliveri.gr/camera/aliveri.jpg
 http://livecameras.gr:81/live/meto1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ανδρονιάνοι Ευβοίας (Live)
 #http://livecameras.gr:81/live/andr1/chunks.m3u8
+#EXTINF:-1 group-title="Greece WebCams",Άγιος Γεώργιος Ιστιάια (Pic)
+https://images-webcams.windy.com/60/1479400860/current/full/1479400860.jpg
 # Κορινθία __________________________________________________________________________________________________________________
 #EXTINF:-1 group-title="Greece WebCams",Τρικαλα Κορινθιας (Pic)
 https://www.trikala-korinthias.gr/webcam/anotrikala.jpg
@@ -279,6 +279,8 @@ http://penteli.meteo.gr/stations/patra-romanos/romanos2.jpg
 http://livecameras.gr:81/live/rio1/chunks.m3u8
 #EXTINF:-1 group-title="Greece WebCams",Ρίο Καστελόκαμπος (Pic)
 http://grhost.info/my.jpg
+#EXTINF:-1 group-title="Greece WebCams",Άνω Καστρίτσι 1 (Pic)
+http://penteli.meteo.gr/stations/kastritsi/anokastritsi1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Ρίο Γέφυρα (Pic)
 https://images.webcamgalore.com/webcamimages/webcam-026504.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό Βόρεια (Pic)
@@ -287,8 +289,6 @@ http://penteli.meteo.gr/stations/patra-romanos/romanos.jpg
 http://penteli.meteo.gr/stations/patra-romanos/romanos3.jpg
 #EXTINF:-1 group-title="Greece WebCams",Πάτρα Όρος Παναχαϊκό Νότια (Pic)
 http://penteli.meteo.gr/stations/patra-romanos/romanos4.jpg
-#EXTINF:-1 group-title="Greece WebCams",Άνω Καστρίτσι 1 (Pic)
-http://penteli.meteo.gr/stations/kastritsi/anokastritsi1.jpg
 #EXTINF:-1 group-title="Greece WebCams",Άνω Καστρίτσι 2 (Pic)
 http://penteli.meteo.gr/stations/kastritsi/anokastritsi2.jpg
 #EXTINF:-1 group-title="Greece WebCams",Αίγιο θέα νότια (live)
